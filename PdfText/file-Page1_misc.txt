@@ -1,0 +1,34 @@
+Flask Training Assignment List
+
+y_first Flask Application 1. Setup Flask Project using CMD on
+Virtual Environment with base route
+2. Setup Flask Project using Pycharm on
+Virtual Environment with base route
+
+My first Flask 20 routes Make 20 different routes which will
+
+return different text on changing the
+URL
+
+My first Flask routes with | Make 15 routes with variables and
+variable Converter types.
+
+My first Flask routes with_r | 1. Make .html files and render them
+enderingTemplate with the help of routes.
+2. Make routes using post and get
+methods.
+3. Using Converter types in routes send
+values from URL to .html page and
+display it on Browser.
+
+FlaskUserLoginAndRegistrati | Recreate the Flask User Login And
+onApplication Registration Application shown in
+
+Lecture
+
+FlaskUserLoginAndRegistrati | Recreate the Full Demo project with
+onApplication Front End Designs
+
+ 
+
+Update Your Status Here: Open Sheet to update your work status
